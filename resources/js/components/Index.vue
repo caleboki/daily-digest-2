@@ -3,5 +3,5 @@
 </script>
 
 <template>
-    <h1>Index Component</h1>
+    <h1 class="font-bold bg-red-500">Index Component</h1>
 </template>
